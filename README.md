@@ -40,9 +40,9 @@ I have used the same navigation on all pages. Per the professor's request, I hav
 
 I've attempted to add some new features beyond the standard requirements listed in the rubric. These include: 
 * hyperlinked images
-* using <section> to create sections within a page that makes for more organized code.
-* using <header>, <main>, and <footer> to increase my website's accessibility for those who use screen readers.
-* using <article> to represent self-contained elements within my shop page, specifically for each print that can be purchased.
+* using the section tag to create sections within a page that makes for more organized code.
+* using the header, main, and footer tags to increase my website's accessibility for those who use screen readers.
+* using the article tag to represent self-contained elements within my shop page, specifically for each print that can be purchased.
 * making the entire article for a shop item hyperlinked.
 * incorporating buttons throughout to make navigation through the website's content more clear.
 * use of additional imagery than the required amount to make each page visually appealing.
@@ -51,5 +51,5 @@ I've attempted to add some new features beyond the standard requirements listed 
 * adding an email link in the footer so visitors can easily contact me.
 * using classes and ids to help myself when styling my pages next week.
 * using HTML entities for the copyright and dollar sign symbols.
-* including both an embedded YouTube video and one using the <video> tag.
+* including both an embedded YouTube video and one using the video tag.
 * resizing images and running them through an image optimizer before adding them to the multimedia folder, so as to ensure I'm not including files that are unnecessarily large. Images that are going to be hero images or larger have been included in larger sizer, however, to avoid quality degradation.
