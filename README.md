@@ -16,9 +16,13 @@ You can find multiple images on all pages, and I have also added an image for a 
 
 ### Paragraphs
 
+I have included at least 2 paragraphs of text on the home page, as well as paragraphs of text on all other pages of the website.
+
 ### External Hyperlinks
 
-The footer contains an external hyperlink to my business's website. The biography page contains 8 external hyperlinks, excluding the one of the footer. These all go to home pages of websites that have published my work.
+The footer contains an external hyperlink to my business's website (this is an external website). The biography page contains 8 external hyperlinks, excluding the one in the footer. These all go to home pages of websites that have published my work.
+
+The shop page also contains 8 external hyperlinks, excluding the one in the footer. These links (I have actually made the entire article element linked) go to my gallery system, which is hosted elsewhere.
 
 ### Table
 
@@ -28,6 +32,6 @@ I have included a table of where my work has been published on the biography pag
 
 ### Navigation
 
-I have used the same navigation on all pages. Per the professor's request, I have not made the navigation a list. I currently have a link to the home page (index.html), however this home page can also be accessed by clicking on the logo image. 
+I have used the same navigation on all pages. Per the professor's request, I have not made the navigation a list. I currently have a link to the home page (index.html) in the navigation, however the home page can also be accessed by clicking on the logo image. 
 
 ### Video
