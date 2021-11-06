@@ -1,6 +1,6 @@
 # Read Me - MET CS 601 Sheena Shahangian
 
-This iteration of my website contains the HTML for 4 pages. The homepage is the filename "index.html". I have placed all photos and videos within the "multimedia" directory. Please see below for a description of where I have included the requested elements (and where I have provided extras).
+This iteration of my website contains the HTML for 4 pages. The homepage is the filename "index.html". I have placed all photos within the "multimedia" directory. Please see below for a description of where I have included the requested elements (and where I have provided extras).
 
 ## GitHub
 
@@ -30,11 +30,15 @@ I have included a table of where my work has been published on the biography pag
 
 ### List
 
+I have included a list on the elopements.html page, where I list off common things I do for my photography clients who work with me for their wedding day.
+
 ### Navigation
 
-I have used the same navigation on all pages. Per the professor's request, I have not made the navigation a list. I currently have a link to the home page (index.html) in the navigation, however the home page can also be accessed by clicking on the logo image. 
+I have used the same navigation on all pages. Per the professor's request, I have not made the navigation a list. I currently have a link to the home page (index.html) in the navigation, however that link is actually the logo in the bottom left-hand corner of the webpage.
 
 ### Video
+
+I have included an embedded YouTube video at the bottom of the biography page.
 
 ### Incorporation of Other Additional Elements Presented During Class
 
@@ -44,12 +48,11 @@ I've attempted to add some new features beyond the standard requirements listed 
 * using the header, main, footer, strong, and em tags to increase my website's accessibility for those who use screen readers and to ensure I was prioritizing sematic elements as much as possible.
 * using the article tag to represent self-contained elements within my shop page, specifically for each print that can be purchased.
 * making the entire article for a shop item hyperlinked.
-* incorporating buttons throughout to make navigation through the website's content more clear.
+* incorporating buttons throughout to make navigating through the website's content more clear.
 * use of additional imagery than the required amount to make each page visually appealing.
 * creating custom imagery in the form of a logo (on all pages) and a timeline image (on the biography page).
 * adding meta descriptions to all pages for SEO purposes.
 * adding an email link in the footer so visitors can easily contact me.
 * using classes and ids to help myself when styling my pages next week.
 * using HTML entities for the copyright and dollar sign symbols.
-* including both an embedded YouTube video and one using the video tag.
-* resizing images and running them through an image optimizer before adding them to the multimedia folder, so as to ensure I'm not including files that are unnecessarily large. Images that are going to be hero images or larger have been included in larger sizer, however, to avoid quality degradation.
+* resizing images and running them through an image optimizer before adding them to the multimedia folder, so as to ensure I'm not including files that are unnecessarily large. Images that are going to be hero images or larger have been included in larger sizer, however, to avoid quality degradation. Image dimensions will vary, as some images are intentionally cropped square for my future design and aren't intended to spread across the width of the page (for example, the first image on the biography page). Smaller images are also used for the products linked in the shop, as they are going to be smaller images in the final product, and I'm trying to keep the website lightweight.
