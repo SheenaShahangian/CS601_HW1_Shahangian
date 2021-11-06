@@ -41,7 +41,7 @@ I have used the same navigation on all pages. Per the professor's request, I hav
 I've attempted to add some new features beyond the standard requirements listed in the rubric. These include: 
 * hyperlinked images
 * using the section tag to create sections within a page that makes for more organized code.
-* using the header, main, and footer tags to increase my website's accessibility for those who use screen readers.
+* using the header, main, footer, strong, and em tags to increase my website's accessibility for those who use screen readers and to ensure I was prioritizing sematic elements as much as possible.
 * using the article tag to represent self-contained elements within my shop page, specifically for each print that can be purchased.
 * making the entire article for a shop item hyperlinked.
 * incorporating buttons throughout to make navigation through the website's content more clear.
