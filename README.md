@@ -42,27 +42,27 @@ I have also included a list within an aside on the elopements.html page, where I
 
 ### Navigation
 
-I have used the same navigation on all pages. Per the professor's request, I have not made the navigation a list. I currently have a link to the home page (index.html) in the navigation, however that link is actually the logo in the bottom left-hand corner of the webpage.
+I have used the same navigation on all pages. Per the professor's request, I have not made the navigation a list. I currently have a link to the home page (index.html) in the navigation, however that link is actually the logo in the top left-hand corner of the webpage.
 
 ### Video
 
-I have included two embedded YouTube videos at the bottom of the biography page, each within a figure, so that a figcaption could be tied to the video.
+I have included two embedded YouTube videos at the bottom of the biography page, each within a figure, so that a figcaption could be tied to the videos.
 
 ### Incorporation of Other Additional Elements Presented During Class - How I Went Above and Beyond
 
 I've attempted to add some new features beyond the standard requirements listed in the rubric. These include: 
-* adding more than one video, more than one table, 4 pages to my site (instead of 3), including 18 external hyperlinks, including lots of extra paragraphs, and adding extra images on all pages.
-* hyperlinked images
-* using the section tag in multiple areas to create sections within a page that makes for more organized code.
-* using the header, main, footer, strong, and em tags to increase my website's accessibility for those who use screen readers and to ensure I was prioritizing sematic elements as much as possible.
-* use of figure and figcaption on my embedded videos, so I could provide credit to the videographers.
+* adding more than one video, adding more than one table, adding 4 pages to my site (instead of 3), including 18 external hyperlinks, including lots of extra paragraphs, and adding extra images on all pages.
+* creating hyperlinked images
+* using the section tag in multiple areas to create sections within a page that makes for more organized and meaningful code (rather than depending on divs).
+* using the header, nav, main, footer, strong, and em tags to increase my website's accessibility for those who use screen readers and to ensure I was prioritizing sematic elements as much as possible.
+* using figure and figcaption on my embedded videos, so I could provide credit to the videographers.
 * using the article tag to represent self-contained elements within my shop page, specifically for each print that can be purchased.
-* use of blockquotes on all pages (except the home page) to enhance the feeling and essence of what each page is about.
-* use of an aside element (on the home page) that spotlights the essence of what the paragraphs surrounding it are about, much like a pullquote would do in a magazine.
-* use of the aside element (on the elopements page) to list off the most popular elopement destinations I work at.
-* making the entire article for a shop item hyperlinked.
-* incorporating buttons throughout to make navigating through the website's content more clear.
-* use of additional imagery than the required amount to make each page visually appealing.
+* using blockquotes on all pages (except the home page) to enhance the feeling and essence of what each page is about.
+* using an aside element (on the home page) that spotlights the essence of what the paragraphs surrounding it are about, much like a pullquote would do in a magazine.
+* using the aside element (on the elopements page) to list off the most popular elopement destinations I work at.
+* making the entire article for a shop item hyperlinked for ease of use.
+* incorporating buttons throughout the site where relevant, to make navigating through the website's content more clear.
+* using additional imagery than the required amount to make each page visually appealing.
 * creating custom imagery in the form of a logo (on all pages) and a timeline image (on the biography page).
 * adding meta descriptions to all pages for SEO purposes.
 * adding an email link in the footer so visitors can easily contact me.
