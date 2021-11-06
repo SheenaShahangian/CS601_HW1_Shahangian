@@ -12,7 +12,7 @@ The repository is public, however should you have any trouble accessing it, plea
 
 ### Images
 
-You can find multiple images on all pages, and I have also added an image for a site logo.
+You can find multiple images on all pages (21 total on the site), and I have also added an image for a site logo.
 
 ### Paragraphs
 
@@ -51,7 +51,7 @@ I have included two embedded YouTube videos at the bottom of the biography page,
 ### Incorporation of Other Additional Elements Presented During Class - How I Went Above and Beyond
 
 I've attempted to add some new features beyond the standard requirements listed in the rubric. These include: 
-* adding more than one video, adding more than one table, adding 4 pages to my site (instead of 3), including 18 external hyperlinks, including lots of extra paragraphs, and adding extra images on all pages.
+* adding more than one video, adding more than one table, adding 4 pages to my site (instead of 3), including 18 external hyperlinks, including lots of extra paragraphs, and adding extra images on all pages (21 images total).
 * creating hyperlinked images
 * using the section tag in multiple areas to create sections within a page that makes for more organized and meaningful code (rather than depending on divs).
 * using the header, nav, main, footer, strong, and em tags to increase my website's accessibility for those who use screen readers and to ensure I was prioritizing sematic elements as much as possible.
