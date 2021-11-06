@@ -18,6 +18,9 @@ You can find multiple images on all pages, and I have also added an image for a 
 
 I have included at least 2 paragraphs of text on all pages of my website.
 
+### HTML5 Elements
+All pages (even the 4th one) contain HTML5 elements.
+
 ### External Hyperlinks
 
 The footer contains an external hyperlink to my business's website (this is an external website). The biography page contains 9 external hyperlinks, excluding the one in the footer. These all go to home pages of websites that have published my work.
@@ -31,9 +34,11 @@ are located.
 
 I have also included a table on the elopements page at the bottom, where I create a sample wedding day timeline for an adventurous elopement.
 
-### List
+### Lists
 
 I have included a list on the elopements.html page, where I list off common things I do for my photography clients who work with me for their wedding day.
+
+I have also included a list within an aside on the elopements.html page, where I list off the most common/popular elopement destinations I photograph at.
 
 ### Navigation
 
@@ -48,13 +53,13 @@ I have included two embedded YouTube videos at the bottom of the biography page,
 I've attempted to add some new features beyond the standard requirements listed in the rubric. These include: 
 * adding more than one video, more than one table, 4 pages to my site (instead of 3), including 18 external hyperlinks, including lots of extra paragraphs, and adding extra images on all pages.
 * hyperlinked images
-* using the section tag to create sections within a page that makes for more organized code.
+* using the section tag in multiple areas to create sections within a page that makes for more organized code.
 * using the header, main, footer, strong, and em tags to increase my website's accessibility for those who use screen readers and to ensure I was prioritizing sematic elements as much as possible.
 * use of figure and figcaption on my embedded videos, so I could provide credit to the videographers.
 * using the article tag to represent self-contained elements within my shop page, specifically for each print that can be purchased.
 * use of blockquotes on all pages (except the home page) to enhance the feeling and essence of what each page is about.
-* use of an aside element (on the home page) that spotlights the essence of what the paragraphs surrounding it are about, much like 
-a pullquote would do in a magazine.
+* use of an aside element (on the home page) that spotlights the essence of what the paragraphs surrounding it are about, much like a pullquote would do in a magazine.
+* use of the aside element (on the elopements page) to list off the most popular elopement destinations I work at.
 * making the entire article for a shop item hyperlinked.
 * incorporating buttons throughout to make navigating through the website's content more clear.
 * use of additional imagery than the required amount to make each page visually appealing.
