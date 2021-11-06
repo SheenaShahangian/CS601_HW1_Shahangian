@@ -21,7 +21,7 @@ You can find multiple images on all pages (21 total on the site), and I have als
 I have included at least 2 paragraphs of text on all pages of my website.
 
 ### HTML5 Elements
-All pages (even the 4th one) contain HTML5 elements.
+All pages (including the 4th one) contain HTML5 elements.
 
 ### External Hyperlinks
 
