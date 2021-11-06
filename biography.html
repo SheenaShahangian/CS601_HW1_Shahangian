@@ -10,6 +10,7 @@
     <title>Sheena's Biography</title>
 </head>
 
+
 <body>
 
     <!-- website header with logo and navigation -->
@@ -19,12 +20,12 @@
         <nav>
             <!-- website logo that navigates back to the home page when clicked -->
             <a href="index.html"><img src="multimedia/sheena-shahangian-logo.png" 
-            alt="logo for Sheena's portfolio site" width="180" height="180"></a>
+                alt="logo for Sheena's portfolio site" width="180" height="180"></a>
 
-            <!-- non-homepage/logo navigation links -->
-            <a class="active" href="biography.html">Biography</a> <!-- this link is active! -->
-            <a href="elopements.html">Elopements</a>
-            <a href="shop.html">Shop</a>
+            <!-- non-homepage/non-logo navigation links -->
+            <a class="nav_links" id="nav_active" href="biography.html">Biography</a> <!-- this link is active! -->
+            <a class="nav_links" href="elopements.html">Elopements</a>
+            <a class="nav_links" href="shop.html">Shop</a>
         </nav>
 
     </header>
@@ -37,7 +38,8 @@
         <section class="introduction_block">
 
             <!-- a photo of Sheena -->
-            <img src="multimedia/about-page-profile-photo.jpg" alt="woman with black hair looking at the camera">
+            <img class="two_column_block" src="multimedia/about-page-profile-photo.jpg" 
+            alt="woman with black hair looking at the camera">
 
             <section class="two_column_block">
                 <!-- a short introductory blurb about who I am and how I got here -->
@@ -76,11 +78,13 @@
             
             </section>
 
-            <!-- a visual timeline of my career -->
-            <img src="multimedia/about-page-timeline.jpg" 
-            alt="timeline of Sheena's career" width="1500">
-
         </section>
+
+
+        <!-- a visual timeline of my career -->
+        <img src="multimedia/about-page-timeline.jpg" 
+        alt="timeline of Sheena's career" width="1500">
+
 
         <!-- this section goes over some of the major publications where my work has been featured -->
         <section id="publications">
@@ -188,6 +192,7 @@
 
             </figure>
 
+
             <!-- embedded YouTube video by White in Revery of an elopement at Dunton Hot Springs -->
             <figure>
 
@@ -203,20 +208,21 @@
                 </figcaption>
 
             </figure>
-            
 
         </section>
-        
 
     </main>
+
 
     <!-- website footer -->
     <footer>
         <!-- image copyright credit -->
         <p>All images &copy; <a href="https://sheenashahangian.com">Sheena Shahangian Photography LLC</a></p>
+        <!-- email link to contact Sheena -->
         <p><a href="mailto:sheenas@bu.edu">Email Sheena</a></p>
     </footer>
     
+
 </body>
 
 </html>

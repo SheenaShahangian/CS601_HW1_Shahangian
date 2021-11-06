@@ -2,11 +2,13 @@
 
 This iteration of my website contains the HTML for 4 pages. The homepage is the filename "index.html". I have placed all photos within the "multimedia" directory. Please see below for a description of where I have included the requested elements (and where I have provided extras).
 
+
 ## GitHub
 
 To view this project on GitHub, please visit this link: https://github.com/SheenaShahangian/CS601_HW1_Shahangian
 
 The repository is public, however should you have any trouble accessing it, please do not hesitate to reach out to me. I can be reached at sheenas@bu.edu.
+
 
 ## Requested Elements
 
@@ -57,6 +59,7 @@ I've attempted to add some new features beyond the standard requirements listed 
 * using the header, nav, main, footer, strong, and em tags to increase my website's accessibility for those who use screen readers and to ensure I was prioritizing sematic elements as much as possible.
 * using figure and figcaption on my embedded videos, so I could provide credit to the videographers.
 * using the article tag to represent self-contained elements within my shop page, specifically for each print that can be purchased.
+* using the article tag to represent self-contained card-like elements on the home page, which are used to give the site visitor the option to navigate to my biography page or to the shop page.
 * using blockquotes on all pages (except the home page) to enhance the feeling and essence of what each page is about.
 * using an aside element (on the home page) that spotlights the essence of what the paragraphs surrounding it are about, much like a pullquote would do in a magazine.
 * using the aside element (on the elopements page) to list off the most popular elopement destinations I work at.

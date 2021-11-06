@@ -10,6 +10,7 @@
     <title>A Life Well Documented - Sheena Shahangian's Portfolio</title>
 </head>
 
+
 <body>
 
     <!-- website header with logo and navigation -->
@@ -18,13 +19,13 @@
         <!-- main navigation bar for the website -->
         <nav>
             <!-- website logo that navigates back to the home page when clicked -->
-            <a href="index.html"><img src="multimedia/sheena-shahangian-logo.png" alt="logo for Sheena's portfolio site"
-                    width="180" height="180"></a>
+            <a href="index.html"><img src="multimedia/sheena-shahangian-logo.png" 
+                alt="logo for Sheena's portfolio site" width="180" height="180"></a>
 
-            <!-- non-homepage/logo navigation links -->
-            <a href="biography.html">Biography</a>
-            <a href="elopements.html">Elopements</a>
-            <a href="shop.html">Shop</a>
+            <!-- non-homepage/non-logo navigation links -->
+            <a class="nav_links" href="biography.html">Biography</a>
+            <a class="nav_links" href="elopements.html">Elopements</a>
+            <a class="nav_links" href="shop.html">Shop</a>
         </nav>
 
     </header>
@@ -49,7 +50,7 @@
             </p>
 
             <!-- aside used to eventually display content I want spotlit and styled to stand out -->
-            <aside id="pullquote">
+            <aside class="pullquote">
                 <p>It's in the "in-between" moments where the magic of life happens. Those are the moments 
                     worth documenting.
                 </p>
@@ -65,18 +66,19 @@
             </p>
         </section>
 
+
         <!-- this section give the user two routes to take on the site -->
-        <section class="multi_card_display">
+        <section class="two_card_display">
             <h2>Let's Go on a Journey</h2>
             <p>
                 What would you like to know? Interested in learning more about me and my background?
                 Head on over to the <a href="biography.html">biography page</a> to learn more. Interested 
-                in buying one of my landscape prints? Navigate on over to <a href="shop.html">the shop</a>, 
+                in buying one of my landscape prints? Navigate on over to <a href="shop.html">the print shop</a>, 
                 where you can see some of <em>my</em> personal favorites.
             </p>
 
             <!-- card that will navigate you to the biography page -->
-            <article class="card">
+            <article class="info_card">
 
                 <h3>Hey. Hi. Hello. It's Sheena.</h3>
                 <img src="multimedia/about-card-photo.jpg" alt="woman sitting in front of a waterfall">
@@ -95,7 +97,7 @@
             </article>
 
             <!-- card that will navigate you to the landscape shop page -->
-            <article class="card">
+            <article class="info_card">
 
                 <h3>Shop My Landscape Prints</h3>
                 <img src="multimedia/shop-card-photo.jpg" alt="a desert canyon at sunset">
@@ -117,12 +119,15 @@
 
     </main>
 
+
     <!-- website footer -->
     <footer>
         <!-- image copyright credit -->
         <p>All images &copy; <a href="https://sheenashahangian.com">Sheena Shahangian Photography LLC</a></p>
+        <!-- email link to contact Sheena -->
         <p><a href="mailto:sheenas@bu.edu">Email Sheena</a></p>
     </footer>
+
 
 </body>
 
